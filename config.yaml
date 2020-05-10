@@ -1,34 +1,34 @@
-title: Stackbit Azimuth Theme
+title: COONDITION:BLACK
 baseURL: /
 params:
-  palette: blue
+  palette: black
   header:
-    title: Azimuth
+    title: CONDITION:BLACK
     logo_img: images/logo.png
     has_nav: true
     nav_links:
       - label: Home
         url: /
-      - label: Features
-        url: /features
-      - label: Pricing
-        url: /pricing
+      - label: Services
+        url: /services
+      - label: Research
+        url: /research
       - label: Style Guide
         url: /style-guide
-      - label: Sign Up
+      - label: Clients
         url: /signup
         primary: true
   footer:
     logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
+    tagline: Research with integrity, Security without compromise.
     has_nav: true
-    nav_title: Company
+    nav_title: Organization
     nav_links:
       - label: About Us
         url: /about
       - label: Blog
         url: /blog
-      - label: Sign Up
+      - label: Volunteers
         url: signup
       - label: Contact
         url: /contact
@@ -46,11 +46,11 @@ params:
         new_window: true
     has_subscribe: true
     subscribe_title: Subscribe
-    subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
+    subscribe_content: Stay up to date with our research (No Spam).
+    content: '&copy; CONDITION:BLACK. All rights reserved.'
     links:
-      - label: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - label: Research with integrity, Security without compromise.
+        url: 'https://condition.black'
         new_window: true
 disableKinds:
   - RSS
